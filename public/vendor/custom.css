@@ -1,0 +1,20 @@
+/** ADD YOUR AWESOME CODES HERE **/
+/* body {
+    background-color: aqua !important;
+} */
+
+span.text {
+    font-size: 0.97rem !important;
+}
+
+h3.resource-title {
+    font-size: 2.2rem !important;
+    letter-spacing: 0.05em !important;
+}
+
+@media screen and (max-width: 768px) {
+    span.text {
+        font-size: 0.85rem !important;
+        width: 300px !important;
+    }
+}
